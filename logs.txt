@@ -1,3 +1,4 @@
 # Project Update
 Draft preliminary notes for the next minor version
 Provide an option to export data as CSV/JSON
+Verify that all internal links resolve correctly
